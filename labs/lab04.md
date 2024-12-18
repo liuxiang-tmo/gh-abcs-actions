@@ -1,5 +1,5 @@
 # 4 - Workflow Templates
-In this lab you will reuse workflow templates.
+In this lab you will reuse workflow templates. - change
 > Duration: 10-15 minutes
 
 References:
